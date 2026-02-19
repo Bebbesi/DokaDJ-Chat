@@ -95,7 +95,6 @@ You can deploy easily on:
 * Vercel
 * Netlify
 * Firebase Hosting
-* GitHub Pages (with config)
 
 Build first:
 
