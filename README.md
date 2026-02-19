@@ -108,7 +108,7 @@ Then upload the `dist/` folder to your hosting provider.
 
 ## 🧑‍💻 Author
 
-Made with ☕ and too much coding energy.
+I was bored ngl 
 
 GitHub: [https://github.com/Bebbesi](https://github.com/Bebbesi)
 
